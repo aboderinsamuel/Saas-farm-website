@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+    .btn{
+        @apply bg-black text-white px-4 py-2 rounded-lg font-medium inline-flex items-center justify-center tracking-tight
+    }
+    .btn-primary{
+        @apply bg-[#1d4c2d] text-white;
+    }
+    .btn-text{
+        @apply text-black bg-transparent;
+    }
+
+    .logo-ticker-img{
+        @apply h-8 w-auto
+    }
+    .tag {
+        @apply inline-flex border border-[#1d4c2d]/10 px-3 py-1 rounded-lg tracking-tight; 
+    }
+    .section-title {
+        @apply text-center text-3xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#1d4c2d] text-transparent bg-clip-text;
+    }
+    .section-description {
+        @apply text-center text-[22px] leading-[30px] tracking-tight text-[#000000]
+    }
+    .section-title2 {
+        @apply text-center text-3xl md:text-[54px] md:leading-[60px] font-bold tracking-tighter bg-gradient-to-b from-black to-[#0c2113] text-transparent bg-clip-text;
+    }
+    .custom-gradient-text {
+        @apply bg-clip-text text-transparent;
+        background-image: linear-gradient(to right, #DD7DDF, #E1CD86, #BBCB92, #71C2EF, #3BFFFF, #DD7DDF, #E1CD86, #BBCB92, #71C2EF, #3BFFFF,#E1CD86, #BBCB92, #71C2EF, #3BFFFF);
+        background-size: 200%
+    }
+    /* .custom-gradient-text2{
+        @apply bg-clip-text text-transparent;
+        background-image: linear-gradient(to right, #8C3D8D, #8B7C44, #6A7B4D, #346A97, #2A9F9F, #8C3D8D, #8B7C44, #6A7B4D, #346A97, #2A9F9F);
+    }*/
+    .section-heading{
+        @apply max-w-[540px] mx-auto;
+
+    }
+    .card{
+        @apply p-10 border border-[#F1F1F1] rounded-3xl shadow-[0_7px_14px_#EAEAEA] max-w-xs w-full;
+    }
+
+}; 
