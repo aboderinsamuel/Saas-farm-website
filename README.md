@@ -1,10 +1,4 @@
-# 🌾 Light SaaS Landing Page - Farm Website 🌾
-
-
-<p align="center">
-  <img src="https://i2.paste.pics/fc8d6dbe6905e2a0686eaff8ec99b8d6.png?rand=nCsNuctv5p" width="80%" alt="Website Preview">
-</p>
-
+#🌾 Light SaaS Landing Page - Farm Website 🌾
 ## Table of Contents
 
 - [Introduction](#introduction)
