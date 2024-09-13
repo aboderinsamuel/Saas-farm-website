@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://i2.paste.pics/dbb874594ae510063f64980e4c9bc558.png?rand=Kg6TiJh4t5" width="80%" alt="Website Preview">
+  <img src="https://i2.paste.pics/fc8d6dbe6905e2a0686eaff8ec99b8d6.png?rand=nCsNuctv5p" width="80%" alt="Website Preview">
 </p>
 
 ## Table of Contents
