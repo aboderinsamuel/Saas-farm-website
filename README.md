@@ -1,6 +1,9 @@
 # 🌾 Light SaaS Landing Page - Farm Website 🌾
 
-![Website Preview](src/assets/lp.gif)
+
+<p align="center">
+  <img src="src/assets/lp.gif" width="80%" alt="Website Preview">
+</p>
 
 ## Table of Contents
 
@@ -34,5 +37,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/aboderinsamuel/Saas-farm-website.git
    ```
