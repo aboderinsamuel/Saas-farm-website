@@ -1,5 +1,4 @@
-#🌾 Light SaaS Landing Page - Farm Website 🌾
-
+# 🌾 Light SaaS Landing Page - Farm Website 🌾
 
 ## Table of Contents
 
@@ -36,4 +35,4 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/aboderinsamuel/Saas-farm-website.git
-   ```
+
